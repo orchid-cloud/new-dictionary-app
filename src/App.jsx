@@ -1,6 +1,6 @@
-import "./App.css";
-import logo from "./logo-shecodes.png";
-import Dictionary from "./Dictionary";
+import './App.css';
+import logo from './logo.jpg';
+import Dictionary from './Dictionary';
 
 export default function App() {
   return (
