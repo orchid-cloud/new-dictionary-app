@@ -11,7 +11,14 @@ export default function App() {
         </header>
         <main></main>
         <Dictionary defaultKeyword="sun" />
-        <footer className="App-footer">Coded by NZ</footer>
+        <footer className="App-footer">
+          <a
+            href="https://github.com/orchid-cloud/new-dictionary-app.git"
+            target="blank"
+          >
+            GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );
